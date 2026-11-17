@@ -1,30 +1,49 @@
-CAPITAL HUB END-USER LICENSE AGREEMENT (DONATIONWARE)
+CAPITAL HUB END-USER LICENSE AGREEMENT (FREEWARE / DONATIONWARE)
 Hak Cipta (c) 2026 Fawwaz Yaqzhan. Seluruh Hak Cipta Dilindungi Undang-Undang.
 
-Dengan mengunduh, memasang, atau menggunakan perangkat lunak Capital Hub ("Aplikasi"), 
-Anda menyetujui ketentuan lisensi berikut:
+Dengan mengunduh, mengekstrak, atau menggunakan perangkat lunak Capital Hub ("Aplikasi"), 
+Anda menyetujui untuk terikat oleh ketentuan lisensi berikut:
 
-1. HAK PENGGUNAAN (GRATIS & BEBAS):
-   Anda diberikan hak non-eksklusif dan bebas royalti untuk menggunakan Aplikasi ini 
-   secara gratis tanpa batasan waktu atau fitur, baik untuk keperluan pribadi maupun 
-   organisasi/usaha.
+1. PEMBERIAN LISENSI PENGGUNAAN:
+   Anda diberikan hak non-eksklusif, tidak dapat dipindahtangankan, dan bebas royalti 
+   untuk mengunduh dan menggunakan Aplikasi ini secara gratis tanpa batasan waktu 
+   atau fitur, baik untuk keperluan pribadi maupun komersial (usaha/organisasi).
 
 2. DUKUNGAN SUKARELA (DONATIONWARE):
-   Aplikasi ini merupakan perangkat lunak berbasis Donationware. Pembayaran atau donasi 
-   bersifat sukarela sebagai bentuk apresiasi untuk mendukung pemeliharaan dan 
-   pengembangan berkelanjutan. Donasi tidak membatasi maupun menambah fungsionalitas inti Aplikasi.
+   Aplikasi ini didistribusikan sebagai Donationware. Kontribusi atau donasi bersifat 
+   sepenuhnya sukarela untuk mendukung pemeliharaan dan pengembangan Aplikasi. 
+   Donasi tidak membuka fitur tambahan maupun membatasi fungsionalitas inti Aplikasi.
 
-3. PEMBATASAN & LARANGAN:
-   - Anda DILARANG menjual kembali, menyewakan, atau mengomersialkan berkas instalasi Aplikasi ini.
-   - Anda DILARANG melakukan dekompilasi, reverse engineering, atau memodifikasi berkas binary 
-     Aplikasi tanpa izin tertulis dari pemegang hak cipta.
-   - Anda DILARANG menghapus atau mengubah atribusi hak cipta, merek, dan identitas pengembang.
+3. PEMBATASAN HAK:
+   - Anda DILARANG menjual, menyewakan, melisensikan ulang, atau mengomersialkan 
+     berkas distribusi (arsip) maupun berkas executable Aplikasi ini dalam bentuk apa pun.
+   - Anda DILARANG melakukan dekompilasi, rekayasa balik (reverse engineering), 
+     membongkar, atau memodifikasi berkas biner (binary) dan pustaka milik Aplikasi.
+   - Anda DILARANG menghapus, menutupi, atau mengubah pemberitahuan hak cipta, 
+     merek dagang, maupun identitas pengembang di dalam Aplikasi.
 
-4. PENAFIAN JAMINAN (DISCLAIMER OF WARRANTY):
-   APLIKASI INI DISEDIAKAN "APA ADANYA" (AS IS) TANPA JAMINAN APA PUN, BAIK TERSURAT MAUPUN 
-   TERSIRAT. PENGEMBANG TIDAK BERTANGGUNG JAWAB ATAS SEGALA BENTUK KERUGIAN, KEHILANGAN DATA, 
-   ATAU KESALAHAN PENCATATAN KEUANGAN YANG DIAKIBATKAN OLEH PENGGUNAAN APLIKASI INI.
+4. KOMPONEN PIHAK KETIGA:
+   Aplikasi ini dikompilasi dan dibundel bersama pustaka (library) perangkat lunak 
+   pihak ketiga. Hak cipta atas komponen pihak ketiga tersebut tetap menjadi milik 
+   masing-masing pemegangnya dan tunduk pada ketentuan lisensi masing-masing.
 
-5. DISTRIBUSI ULANG:
-   Distribusi ulang berkas installer resmi diperbolehkan selama menyertakan berkas lisensi ini, 
-   tidak memungut biaya, dan mengarahkan pengguna ke repositori resmi Capital Hub.
+5. DISTRIBUSI:
+   Anda diperbolehkan membagikan informasi mengenai Aplikasi ini dengan mengarahkan 
+   pengguna lain ke halaman rilis resmi Capital Hub di GitHub. Anda DILARANG 
+   mengunggah ulang (re-upload) berkas arsip Aplikasi secara mandiri di platform 
+   pihak ketiga tanpa izin tertulis dari pemegang hak cipta.
+
+6. PENYIMPANAN DATA & BATASAN TANGGUNG JAWAB:
+   Aplikasi ini dirancang bekerja secara luring (offline-first) dengan pencatatan 
+   manual dan tidak terhubung dengan layanan perbankan maupun server cloud mana pun. 
+   Seluruh data tersimpan secara lokal di perangkat Anda, sehingga Anda bertanggung 
+   jawab penuh atas keakuratan input data serta pencadangan (backup) berkas secara berkala.
+
+   Aplikasi ini disediakan "sebagaimana adanya" (as is) tanpa jaminan bebas dari 
+   kesalahan sistem (bug). Pengembang tidak bertanggung jawab atas kehilangan data lokal, 
+   kesalahan perhitungan akibat input pengguna, maupun keputusan finansial yang diambil 
+   berdasarkan informasi dari Aplikasi ini.
+
+7. HUKUM YANG BERLAKU:
+   Perjanjian lisensi ini diatur dan ditafsirkan berdasarkan hukum yang berlaku di 
+   Republik Indonesia.
